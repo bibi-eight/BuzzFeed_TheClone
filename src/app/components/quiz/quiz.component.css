@@ -34,14 +34,15 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: auto;
+    /* margin: auto; */
+    gap: 8px;
 }
 
 .btn-option{
     background-color: transparent;
     border-radius: 8px;
     border: 1px solid #18ab29;
-    width: 50%;
+    width: 40%;
     display: inline-block;
     cursor: pointer;
     color: white;
