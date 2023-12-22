@@ -1,55 +1,37 @@
 {
-    "title":"Você seria um heroi ou vilão ?",
+    "title":"Você é uma boa pessoa ou apenas trouxa ?",
     "questions":[
     {
         "id":1,
-        "question": "Qual super poder você escolheria ?",
+        "question": "Se um amigo que vacilou feio com vc pede ajuda você...",
         "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Vai correndo", "alias":"A"},
+        {"id": 2, "name":"Deixo se virar", "alias":"B"},
+        {"id": 3, "name":"Invento uma desculpa", "alias":"A"},
+        {"id": 4, "name":"Ajudo mais deixo claro que estou chateado", "alias":"B"}
         ]
     },
     {
         "id":2,
-        "question": "Quem você salvaria primeiro ?",
+        "question": "O que você faz quando alguém vacila com você? ",
         "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Deixo pra lá", "alias":"A"},
+        {"id": 2, "name":"Digo que não gostei", "alias":"B"},
+        {"id": 3, "name":"Converso pra resolver", "alias":"B"},
+        {"id": 3, "name":"Dou o troco", "alias":"A"}
         ]
     },
     {
         "id":3,
-        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+        "question": "Você perdoa alguém que vacilou mais de 4x ?",
         "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
-        ]
-    },
-    {
-        "id":4,
-        "question": "Qual o seu maior foco ?",
-        "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
-        ]
-    },
-    {
-        "id":5,
-        "question": "Qual o seu apelido de super ser ?",
-        "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"}
         ]
     }
     ],
     "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente é um otário!",
+    "B": "Você muito provavelmente é uma boa pessoa!"
     }
 }
